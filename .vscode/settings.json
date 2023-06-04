@@ -5,5 +5,6 @@
         "activityBar.background": "#45203E",
         "titleBar.activeBackground": "#612D57",
         "titleBar.activeForeground": "#FCF9FC"
-    }
+    },
+    "r.lsp.promptToInstall": false
 }

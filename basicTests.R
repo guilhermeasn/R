@@ -8,3 +8,6 @@ sexo = c('M','F','M','F','M','F','M','F','M','F')
 tabela = data.frame(idade, sexo, altura, peso)
 
 show(tabela)
+
+show(paste('Altura Média: ', mean(tabela$peso)))
+show(paste('Peso Médio: ', mean(tabela$altura)))
